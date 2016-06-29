@@ -6,11 +6,12 @@ _[Email] (mailto: sityemilyshah@gmail.com)_ &nbsp;|&nbsp;
 _[LinkedIn] (https://uk.linkedin.com/sityemilyshah)_ &nbsp;|&nbsp;
 _[Blog] (https://odetoyoda.wordpress.com/)_
 
-Avid knitter, spider diagram junkie and lover of lists. One can never have too many lists. Hundertwasser/Frida Kahlo and Ada Lovelace are held in my highest regards. Pastimes include animation and quadratic equations. Oh, and I have an ability to fit into very small spaces if needs be. Desks, cardboard boxes and car boots included. (something about code...?)
+Avid knitter, spider diagram junkie and lover of lists. One can never have too many lists. Hundertwasser/Frida Kahlo and Ada Lovelace are held in my highest regards. Pastimes include animation and quadratic equations. Oh, and I have an ability to fit into very small spaces if needs be. Desks, cardboard boxes and car boots included. (something about code...)
 
 ## Skills
 
 #### Analytical
+EXAMPLE
 I like logic. A lot.   
 Get a problem.  
 Recognise the problem.  
@@ -19,6 +20,7 @@ Draw some diagrams that depict these problems, normally with arrows.
 💡
 
 #### Creative (shall i include this?)
+how you've done it... make it specific EXAMPLE
 In awe of code as an art form.    
 
 #### Left Handed
@@ -41,7 +43,7 @@ Nuff said.
 *Junior Producer*   
   * Rigorous training to become a film and radio producer
   * Producing my own radio ads, short documentaries and animations
-  * Managing scarily large budgets with scarily tight deadlines
+  * Managing scarily large budgets with scarily tight deadlines (give eg)
   * Negotiating contracts and licenses
   * Liaising with artists and (sometimes difficult) directors
   * Meticulous organisation of pre-production, shoots & post-production  
