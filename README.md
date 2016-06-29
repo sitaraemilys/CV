@@ -12,7 +12,11 @@ Avid knitter, spider diagram junkie and lover of lists. One can never have too m
 
 #### Analytical
 I like logic. A lot.   
-Get a problem. Recognise the problem. Break it down in lots of little problems. Draw some diagrams that depict these problems, normally with arrows. 💡
+Get a problem.  
+Recognise the problem.  
+Break it down in lots of little problems.  
+Draw some diagrams that depict these problems, normally with arrows.  
+💡
 
 #### Creative (shall i include this?)
 In awe of code as an art form.    
