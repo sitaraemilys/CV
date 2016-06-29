@@ -1,6 +1,6 @@
 ## Sity Shah
 
-Keen Bean Junior Web Developer
+Keen Bean/Wannabe Junior Web Developer
 
 _[Email] (mailto: sityemilyshah@gmail.com)_ &nbsp;|&nbsp;
 _[LinkedIn] (https://uk.linkedin.com/sityemilyshah)_ &nbsp;|&nbsp;
@@ -10,47 +10,61 @@ Avid knitter, spider diagram junkie and lover of lists. One can never have too m
 
 ## Skills
 
-#### This Skill
+#### Analytical
+I like logic. A lot.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Creative (shall i include this?)
+In awe of code as an art form.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+### Creative problem solving. Combining the harmony of imagination with logistics, I think this is a deadly combination to take on the world/ get a job.
 
 ## Experience
 
 - **Tibor Ltd** (October 2015 - April 2016)    
-*Production Coordinator*
+*Production Coordinator*    
+  * Curating a retrospective at the Whitworth, Manchester in January 2016
+  * Collaborating with the V&A on an accompanying art book
+  * Managing budgets, schedules and thousands of archives   
+
 
 - **Bartle Bogle Hegarty** (January 2014 - December 2014)    
-*Junior Producer*
+*Junior Producer*   
+  * Rigorous training to become a film and radio producer
+  * Producing my own radio ads and short documentaries
+  * Managing scarily large budgets
+  * Negotiating contracts and licenses
+  * Liaising with artists and (sometimes difficult) directors
+  * Meticulous organisation of pre-production, shoots & post-production  
+
 
 - **Weilands** (June 2014 - January 2014)   
 *Assistant Producer*  
+  * Organising film logistics for upcoming shoots
+  * Runner on set
+  * Pitching, pitching, pitching
 
 #### Other
 
 - **Campervan through Latin America** (January 2015 - December 2015)   
 *Yoga Instructor*  
 
-- **Harry Potter and the Prizoner of Azkaban film** (2003-2004)   
+- **Harry Potter and the Prisoner of Azkaban film** (2003-2004)   
 *Parvati Patil*
 
 ## Education
 
 #### Makers Academy (April 2016 - June 2016)
+- Highly intensive and inspiring bootcamp
+- Focus on the creme de la creme of code practices and values:
+ * OOP, TDD, SOLID design principles
+ * XP principles
+ * Agile work methods
+ * Pair programming
+- Technologies used:
+  * Ruby, Rails, Sinatra, Javascript, Angular.js, HTML/CSS, Sass, Postgres, DataMapper, Active Record
+- Testing frameworks:
+  * RSpec, Jasmine, Capybara, Protractor, Karma
 - Take a look at my blog, in which I document my journey in doodles.
--
 
 #### Bristol University (2009 - 2013)
 ##### History of Art BA, First Class
@@ -59,9 +73,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Dissertation prize for my essay in which I explored the 'third gender' in Claude Cahun's oeuvre in 1920's bohemian Paris
 
 #### Latymer Upper School (2006 - 2009)
-
 ##### A Levels
 - Mathematics (A)
 - Chemistry (A)
 - Fine Art & Design (A)
 - History of Art (A)
+
+#### Things that make me tick
