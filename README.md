@@ -106,4 +106,4 @@ Nuff said.
 
 #### Things that make me tick
 
-Opera singing, collage creating, nature documentaries, cooking Japanese food, surfing badly and the magical surrealism literature of Murakami.
+Singing in a choir, collage creating, nature documentaries, cooking Japanese food, surfing badly and the magical surrealism literature of Murakami.
