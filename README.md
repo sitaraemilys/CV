@@ -66,14 +66,14 @@ Nuff said.
 - **Campervan through Latin America** | January 2015 - December 2015   
 *Yoga Instructor*  
 
-- **Harry Potter and the Prisoner of Azkaban film** | 2003-2004  
+- **Harry Potter and the Prisoner of Azkaban film** | 2003 - 2004  
 *Parvati Patil*
 
 ## Education
 
 #### Makers Academy | April 2016 - June 2016
 - Highly intensive and inspiring bootcamp
-- Focus on the creme de la creme of code practices and values:
+- Focus on the crème de la crème of code practices and values:
  * OOP, TDD, SOLID design principles
  * XP principles
  * Agile work methods
