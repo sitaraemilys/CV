@@ -6,7 +6,8 @@ _[Email] (mailto: sityemilyshah@gmail.com)_ &nbsp;|&nbsp;
 _[LinkedIn] (https://uk.linkedin.com/sityemilyshah)_ &nbsp;|&nbsp;
 _[Blog] (https://odetoyoda.wordpress.com/)_
 
-Avid knitter, spider diagram junkie and lover of lists. One can never have too many lists.
+Avid knitter, spider diagram junkie and lover of lists. One can never have too many lists.  
+
 1.  Hundertwasser and Ada Lovelace are held in my highest regards.
 
 2. Pastimes include animation and quadratic equations.
@@ -20,13 +21,13 @@ Oh, and I have an ability to fit into very small spaces if needs be. Desks, car
 #### Creative problem-solver
 Whilst I live and breathe everything arty farty, I am equally attracted to order, numbers and logic. Problem-solving gets me giddy with excitement and essentially this is what coding is all about, right? Creative problem-solving.
 
-My background in the arts has trained my visual reasoning. In breaking down and tackling a problem, I draw diagrams to visualise the process, translating the abstract into something solid and tangible. Take a look at my blog [*OdeToYodaAndCode*] (https://odetoyoda.wordpress.com/), in which I convert (sometimes) confusing code concepts encountered on my Makers Academy journey into doodles. Never sans sketchbook, this skill has been invaluable whilst learning to code.
+My background in the arts has trained my visual reasoning. In breaking down and tackling a problem, I draw diagrams to visualise the process, translating the abstract into something solid and tangible. Take a look at my blog [*Ode To Yoda (and code)*] (https://odetoyoda.wordpress.com/), in which I convert (sometimes) confusing code concepts encountered on my Makers Academy journey into doodles. Never sans sketchbook, this skill has been invaluable whilst learning to code.
 
 #### Spinner of Many Plates
-A big part of a Producer's role is the juggling of many jobs at one time. At BBH I had to manage people (from partners to cameramen on set), budgets, teams and deadlines. Similarly, at Tibor, a very early-stage start-up, my role would consist of weekly reports with the investors, coordinating our upcoming exhibition at the Whitworth, as well as producing a book with the V&A and re-designing our website. Phew! Through this, attention to detail, meticulous organisation and efficiency have become core values that are important drivers for me.
+A big part of a Producer's role is the juggling of many jobs at one time. At BBH I had to manage people (from partners to cameramen on set), budgets, teams and deadlines. Similarly, at [**Tibor**] (http://www.tibor.co.uk/), a very early-stage start-up, my role would consist of weekly reports with the investors, coordinating our upcoming exhibition at the Whitworth, as well as producing a book with the V&A and re-designing our website. Phew! Through this, attention to detail, meticulous organisation and efficiency have become core values that are important drivers for me.
 
 #### T-E-A-M Player
-Pair programming. Retrospectives. Team Projects. Stand-ups. These are principles which were ingrained into our very being at Makers Academy. Bouncing ideas, approaches and perspectives off people with different brains is what makes me really tick in a team. This is particularly true of creative teams when you collaborate together to deliver a coherent, successful advertising campaign, as I did at BBH with Virgin Media and British Airways. Working with many personalities and egos chucked into the mix requires a clear and concise level of communication and team spirit!
+Pair programming. Retrospectives. Team Projects. Stand-ups. These are principles which were ingrained into our very being at Makers Academy. Bouncing ideas, approaches and perspectives off people with different brains is what makes me really tick in a team. This is particularly true of creative teams when you collaborate together to deliver a coherent, successful advertising campaign, as I did at [**BBH**] (http://www.bartleboglehegarty.com/) with Virgin Media and British Airways. Working with many personalities and egos chucked into the mix requires a clear and concise level of communication and team spirit!
 
 #### Left-Handed
 Nuff said.
