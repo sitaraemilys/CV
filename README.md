@@ -17,6 +17,14 @@ Avid knitter, spider diagram junkie and lover of lists. One can never have too m
 
 Oh, and I have an ability to fit into very small spaces if needs be. Desks, cardboard boxes and car boots included.  
 
+## Projects
+
+| Name | Description | Technologies | Testing |
+|------|-------------|--------------|---------|
+|[**Happy Belly**](https://github.com/sitypop/allergy_scanner_frontend)| No one likes a sad belly. This app enables allergy sufferers/people with dietary requirements scan a product and quickly know whether they can eat it. Or not. 🍔 | Rails API, AngularJS, Ionic, Postgres, ngCordova barcode scanner, Heroku | Rspec, Karma, Protractor |
+|[**Bookworms**](https://github.com/sitypop/bookworms)| For book lovers and aspiring readers to connect over books. 🐛 |Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku| RSpec, Karma, Protractor |
+|[**MakersBnB**](https://github.com/sitypop/SHEWbnb)|A clone of AirBnb which allows you to view, request and book places to stay. 🏢 |Ruby, Sinatra, Postgres |RSpec, Capybara|
+
 ## Skills
 
 #### Creative problem-solver
@@ -83,14 +91,6 @@ Nuff said.
   * Ruby, Rails, Sinatra, Javascript, Angular.js, HTML/HAML & CSS, Sass, Postgres, DataMapper, Active Record
 - Testing frameworks:
   * RSpec, Jasmine, Capybara, Protractor, Karma
-
-- Projects include:
-
-| Name | Description | Technologies | Testing |
-|------|-------------|--------------|---------|
-|[**Happy Belly**](https://github.com/sitypop/allergy_scanner_frontend)| No one likes a sad belly. This app enables allergy sufferers/people with dietary requirements scan a product and quickly know whether they can eat it. Or not. 🍔 | Rails API, AngularJS, Ionic, Postgres, ngCordova barcode scanner, Heroku | Rspec, Karma, Protractor |
-|[**Bookworms**](https://github.com/sitypop/bookworms)| For book lovers and aspiring readers to connect over books. 🐛 |Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku| RSpec, Karma, Protractor |
-|[**MakersBnB**](https://github.com/sitypop/SHEWbnb)|A clone of AirBnb which allows you to view, request and book places to stay. 🏢 |Ruby, Sinatra, Postgres |RSpec, Capybara|
 
 #### Bristol University | 2009 - 2013
 ##### History of Art BA, First Class
