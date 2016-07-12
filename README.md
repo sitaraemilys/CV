@@ -4,7 +4,8 @@ Keen Bean Junior Web Developer
 
 _[Email] (mailto: sityemilyshah@gmail.com)_ &nbsp;|&nbsp;
 _[LinkedIn] (https://uk.linkedin.com/sityemilyshah)_ &nbsp;|&nbsp;
-_[Blog] (https://odetoyoda.wordpress.com/)_
+_[Blog] (https://odetoyoda.wordpress.com/)_&nbsp;|&nbsp;
+_[Twitter] (https://twitter.com/sitypop)_
 
 Avid knitter, spider diagram junkie and lover of lists. One can never have too many lists.  
 
