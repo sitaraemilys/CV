@@ -88,7 +88,7 @@ Nuff said.
  * Agile work methods
  * Pair programming
 - Technologies used:
-  * Ruby, Rails, Sinatra, Javascript, Angular.js, HTML/HAML & CSS, Sass, Postgres, DataMapper, Active Record
+  * Ruby, Rails, Sinatra, Javascript, Angular.js, HTML/HAML & CSS, SASS, Postgres, DataMapper, Active Record
 - Testing frameworks:
   * RSpec, Jasmine, Capybara, Protractor, Karma
 
