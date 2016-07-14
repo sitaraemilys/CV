@@ -3,7 +3,7 @@
 Keen Bean Junior Web Developer
 
 _[Email] (mailto: sityemilyshah@gmail.com)_ &nbsp;|&nbsp;
-_[LinkedIn] (https://uk.linkedin.com/sityemilyshah)_ &nbsp;|&nbsp;
+_[LinkedIn] (https://www.linkedin.com/in/sityemilyshah)_ &nbsp;|&nbsp;
 _[Blog] (https://odetoyoda.wordpress.com/)_&nbsp;|&nbsp;
 _[Twitter] (https://twitter.com/sitypop)_
 
