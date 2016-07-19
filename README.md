@@ -103,7 +103,7 @@ Nuff said.
 - Mathematics | A
 - Chemistry | A
 - Fine Art & Design | A
-- History of Art | A
+- History of Art and Design | A
 
 #### Things that make me tick
 
