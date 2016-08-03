@@ -16,7 +16,7 @@ Avid knitter, spider diagram junkie and lover of lists. One can never have too m
 
 3. Obsessed with code. Particularly partial to Javascript promises.
 
-Oh, and I have an ability to fit into very small spaces if needs be. Desks, cardboard boxes and car boots included.  P.S All hail the humble Helvetica.
+Oh, and I have an ability to fit into very small spaces if needs be. Desks, cardboard boxes and car boots included.  P.S. All hail the humble Helvetica.
 
 ## Projects
 
