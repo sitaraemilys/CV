@@ -1,6 +1,6 @@
 ## Sity Shah
 
-Keen Bean Junior Web Developer
+Keen Bean Junior Frontend Web Developer/Designer
 
 _[Website](http://sitypop.com/)_ &nbsp;|&nbsp;
 _[Email] (mailto: sityemilyshah@gmail.com)_ &nbsp;|&nbsp;
